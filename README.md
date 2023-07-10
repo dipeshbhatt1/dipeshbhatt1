@@ -9,7 +9,7 @@
 </h1>
 
 <h3  align = "center">
- <b>I'm an aspiring Data Scientist with a keen interest in handling and manipulating data and drawing effective and useful insights that make a real difference.</b>
+ <b>I'm an aspiring Data Scientist with a keen interest in collecting, transforming, and organizing data to draw powerful insights</b>
 </h3>
 
  
