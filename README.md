@@ -9,7 +9,7 @@
 </h1>
 
 <h3  align = "center">
- <b>I'm Data Analyst with skills and exposure in collection, transformation & organization of data to support organizations with data insights and help taking impactful decisions</b>
+ <b>A Data Analyst with skills and exposure in collection, transformation & organization of data to support organizations with data insights and help taking impactful decisions</b>
 </h3>
 
  
