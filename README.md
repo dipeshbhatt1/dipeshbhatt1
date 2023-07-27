@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media0.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e473hvekkmbz2c46ozygekrg3yhu6mpeoh5bynwmkbc&rid=giphy.gif&ct=g" width="375"/>
+  <img src="https://filmdaily.co/wp-content/uploads/2021/12/dataanalyst-lede.jpg" width="500"/>
 </div>
 
 
@@ -9,7 +9,7 @@
 </h1>
 
 <h3  align = "center">
- <b>A Data Analyst with skills and exposure in collection, transformation & organization of data to support organizations with data insights and help taking impactful decisions</b>
+ <b>A Budding Data Analyst with skills and exposure in collection, transformation & organization of data to support organizations with data insights and help taking impactful decisions</b>
 </h3>
 
  
@@ -40,12 +40,12 @@
         </span>
       </span></animated-image></p>
 
- - :eyes: Looking forward to making my mark into **Data Science and Analytics**
- - :telescope: I’m currently working on **Machine Learning skills and AWS**
+ - :eyes: Looking forward to making my mark into **Data Science & Analytics**
+ - :telescope: I’m currently working on **Machine Learning skills & AWS**
  - :seedling: I’m enthusiastic about finding the intricacies in the data
  
  - <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"><img class="emoji" alt="man_technologist" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png"></g-emoji> All of my projects are available at <a href="https://github.com/dipeshbhatt1?tab=repositories"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="dipeshbhatt1" height="30" width="40" style="max-width: 100%;"></a></p>
- - :thinking: Passionate to draw meaningful insights from the data
+ - :thinking: I can help you transform Data into Decisions
  - :mailbox: Contact me through <strong> <a href="https://www.linkedin.com/in/dipeshbhatt1/" rel="nofollow" >LinkedIn</a></strong>
  
  <br>
